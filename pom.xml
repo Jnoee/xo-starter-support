@@ -38,5 +38,7 @@
 		<module>xo-starter-ienum</module>
 		<module>xo-starter-excel</module>
 		<module>xo-starter-word</module>
+		<module>xo-starter-dfs</module>
+		<module>xo-starter-pay</module>
 	</modules>
 </project>
