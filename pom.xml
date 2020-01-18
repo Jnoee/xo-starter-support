@@ -40,5 +40,6 @@
 		<module>xo-starter-word</module>
 		<module>xo-starter-dfs</module>
 		<module>xo-starter-pay</module>
+		<module>xo-starter-dwz</module>
 	</modules>
 </project>
