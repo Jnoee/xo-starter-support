@@ -12,7 +12,8 @@ import com.github.jnoee.xo.ienum.jackson.IEnumModule;
  * 枚举增强总配置。
  */
 @Configuration
-@Import({IEnumJpaAutoConfiguration.class, IEnumWebAutoConfiguration.class})
+@Import({IEnumJpaAutoConfiguration.class, IEnumMybatisAutoConfiguration.class,
+    IEnumWebAutoConfiguration.class})
 public class IEnumAutoConfiguration {
   /**
    * 配置IEnum Jackson转换组件。

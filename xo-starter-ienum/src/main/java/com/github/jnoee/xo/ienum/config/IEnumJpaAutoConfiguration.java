@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ConditionalOnClass(UserType.class)
 @AutoConfigureAfter(value = JpaRepositoriesAutoConfiguration.class)
-@EntityScan("com.github.jnoee.xo.ienum.usertype")
+@EntityScan("com.github.jnoee.xo.ienum.jpa")
 public class IEnumJpaAutoConfiguration {
 
 }

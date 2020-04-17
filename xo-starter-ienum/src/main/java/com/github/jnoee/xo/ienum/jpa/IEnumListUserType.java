@@ -1,4 +1,4 @@
-package com.github.jnoee.xo.ienum.usertype;
+package com.github.jnoee.xo.ienum.jpa;
 
 import java.lang.reflect.Field;
 import java.sql.PreparedStatement;
