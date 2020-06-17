@@ -2,7 +2,6 @@ package com.github.jnoee.xo.district.api;
 
 import java.util.Set;
 
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -17,7 +16,7 @@ import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
-@RequestMapping(path = "/", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+@RequestMapping(path = "/")
 @Api(tags = "行政区划")
 public class DistrictApi {
   @ApiOperation(value = "获取省份列表")

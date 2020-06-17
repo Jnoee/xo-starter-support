@@ -6,8 +6,6 @@ import java.util.TreeSet;
 import org.junit.Test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.jnoee.xo.district.DistrictHelper;
-import com.github.jnoee.xo.district.Province;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -11,9 +11,6 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.github.jnoee.xo.config.BaseAutoConfiguration;
 import com.github.jnoee.xo.freemarker.config.FreeMarkerAutoConfiguration;
-import com.github.jnoee.xo.mail.Mail;
-import com.github.jnoee.xo.mail.MailSender;
-import com.github.jnoee.xo.mail.TemplateMail;
 import com.github.jnoee.xo.mail.config.MailAutoConfiguration;
 
 @RunWith(SpringJUnit4ClassRunner.class)

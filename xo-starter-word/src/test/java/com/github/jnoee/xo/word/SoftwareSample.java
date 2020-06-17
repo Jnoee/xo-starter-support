@@ -4,7 +4,6 @@ import java.io.FileOutputStream;
 
 import org.junit.Test;
 
-import com.github.jnoee.xo.word.Word;
 import com.github.jnoee.xo.word.model.Software;
 
 public class SoftwareSample extends AbstractSample {

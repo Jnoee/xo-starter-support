@@ -3,12 +3,12 @@ package com.github.jnoee.xo.word.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.deepoove.poi.config.Name;
 import com.deepoove.poi.data.MiniTableRenderData;
 import com.deepoove.poi.data.NumbericRenderData;
 import com.deepoove.poi.data.PictureRenderData;
 import com.deepoove.poi.data.RowRenderData;
 import com.deepoove.poi.data.TextRenderData;
+import com.deepoove.poi.el.Name;
 
 import lombok.Data;
 

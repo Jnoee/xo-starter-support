@@ -9,11 +9,6 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.github.jnoee.xo.pay.config.PayAutoConfiguration;
-import com.github.jnoee.xo.pay.yee.OrderReq;
-import com.github.jnoee.xo.pay.yee.OrderRes;
-import com.github.jnoee.xo.pay.yee.PayReq;
-import com.github.jnoee.xo.pay.yee.PayRes;
-import com.github.jnoee.xo.pay.yee.YeePay;
 
 /**
  * @Author: yuantt
